@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "mitz@gmail.com",
+      "password": "4466",
+      "role_id": "1"
+    },
+    {
+      "name": "pari",
+      "email": "pari@gamil.com",
+      "password": "789456",
+      "id": 2
+    },
+    {
+      "name": "mittal",
+      "email": "mittal@gmail.com",
+      "password": "123456",
+      "role_id": 2,
+      "id": 3
+    },
+    {
+      "name": "komal",
+      "email": "komal@gmail.com",
+      "password": "456123",
+      "role_id": 2,
+      "id": 4
+    }
+  ]
+}
